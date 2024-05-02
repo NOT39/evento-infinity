@@ -1,2 +1,2 @@
 # evento-infinity
-Projeto desenvolvido durante palestra na infinity school
+Repositório utilizado durante palestra na infinity school
